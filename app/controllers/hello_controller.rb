@@ -1,6 +1,6 @@
 class HelloController < ApplicationController
   def index
-  	@message = "Hello!"
+  	@message = "Hey Will !"
   	@sausage = "Pizza... Yum!"
   end
 end
